@@ -1,0 +1,16 @@
+Cliente: Ola
+Chatbot: você quer explodir paris??
+Cliente: Qual o meu nome japonês?
+Chatbot: você quer pagar um boleto aleatório?
+Cliente: capital da franca
+Chatbot: Paris 
+Cliente: qual a capital do brasil
+Chatbot: brazilia
+Cliente: fim
+Chatbot: comeco
+Cliente: ...
+Chatbot: qual a captal da noruega
+Cliente: oslo
+Chatbot: .
+Cliente: qual a capital da noruega
+Chatbot: oslo
