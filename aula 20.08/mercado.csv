@@ -1,0 +1,41 @@
+Produto,Preço (R$),Categoria
+Arroz,20.0,Alimentos
+Feijão,8.0,Alimentos
+Macarrão,4.5,Alimentos
+Carne Bovina,35.0,Carnes
+Frango,12.0,Carnes
+Leite,4.0,Bebidas
+Ovos,10.0,Bebidas
+Pão,5.5,Padaria
+Café,15.0,Bebidas
+Açúcar,3.8,Mercearia
+Sal,1.5,Mercearia
+Óleo de Soja,7.0,Mercearia
+Manteiga,8.5,Laticínios
+Queijo,30.0,Laticínios
+Presunto,18.0,Frios
+Tomate,6.0,Hortifruti
+Alface,2.0,Hortifruti
+Cenoura,4.0,Hortifruti
+Batata,3.0,Hortifruti
+Cebola,2.5,Hortifruti
+Banana,5.0,Frutas
+Maçã,7.0,Frutas
+Laranja,4.5,Frutas
+Mamão,6.0,Frutas
+Melancia,12.0,Frutas
+Detergente,3.5,Limpeza
+Sabão em Pó,10.0,Limpeza
+Amaciante,9.0,Limpeza
+Desinfetante,5.5,Limpeza
+Papel Higiênico,15.0,Higiene Pessoal
+Shampoo,8.0,Higiene Pessoal
+Condicionador,8.0,Higiene Pessoal
+Sabonete,2.5,Higiene Pessoal
+Pasta de Dente,4.0,Higiene Pessoal
+Escova de Dentes,6.0,Higiene Pessoal
+Lâmina de Barbear,15.0,Higiene Pessoal
+Desodorante,12.0,Higiene Pessoal
+Creme de Barbear,6.5,Higiene Pessoal
+Ração para Cães,50.0,Pet
+Ração para Gatos,60.0,Pet

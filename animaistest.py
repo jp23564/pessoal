@@ -55,7 +55,6 @@ minhoca = Anelideo('Onivoro')
 x = input("Seu animal é vertebrado ou invertebrado? ")
 y = input("Seu animal é ave, mamifero, inseto ou anelideo? ")
 z = input("Seu animal é carnivoro, onivoro, herbivoro ou hematofago? ")
-animal = ''
 
 if x.lower() == aguia.vertebra.lower() and y.lower() == aguia.tipo.lower() and z.lower() == aguia.subtipo.lower():
     print("Seu animal é uma Águia: "+str(aguia.mostrarInformacao()))
