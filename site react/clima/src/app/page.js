@@ -68,7 +68,7 @@ function App() {
   };
 
   const formatDateToDDMM = (date) => {
-    const [yy,mm,dd] = date.split('-');
+    const [yy, mm, dd] = date.split('-');
     return `${dd}/${mm}`;
   };
 
